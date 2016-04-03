@@ -12,3 +12,4 @@ class Solution(object):
         """
         dict = Counter(nums)
         return dict.keys()[dict.values().index(1)]
+        
